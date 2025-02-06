@@ -7,6 +7,7 @@
         "email": "julenjph@hotmail.com"
     },
   "record": {
-    "CNAME": "euskindar.github.io"
+    "CNAME": "euskindar.github.io",
+    "TXT": "6cae73bbf24550d94eb9f8b392d0ce"
   }
 }
